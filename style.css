@@ -1,6 +1,10 @@
 body{
     background-color: #FFF9;
-    max-width: 1000px;
+    margin: auto;
+}
+
+.navbar{
+    background-color: #483A8FD1;
     margin: auto;
 }
 
@@ -54,4 +58,12 @@ body{
 
 li a{
     color: black;
+}
+
+#container{
+    background-color: orange;
+}
+
+.margin{
+    padding-top: 30px;
 }
